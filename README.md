@@ -7,4 +7,4 @@ this will show you a page where you will get information about medicine such tha
 <li>prequation</li> 
 </ul>
 <h1>Outlook</h1>
-<img src="./frontend/images/medicine.png" height="40px" width="40px">
+<img src="./front-end/images/medicine.png">
