@@ -1,0 +1,5 @@
+Solution
+
+Solution for this problem is pretty simple such that patient can check after taking any medicine its eligiblity in 
+simple words we can say who can take and its side effect. So that we can double check any medicine and with full 
+assuraty we can take it.

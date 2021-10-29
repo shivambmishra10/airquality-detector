@@ -1,0 +1,13 @@
+Problem-Statement
+
+Track-selected:Community
+
+Nowdays one of the problem goes around our community or we can say in the world is bad-health issue which can be cause
+because of multiple issue food-selection,poor immunity and many more.Because of which we have to take medicine 
+as per doctor advice but there could be a problem while taking any medicine like may be this medicine will suit other
+but not you because of which you can face many side effect as for everyone medicine body need to fulfil some criteria
+so than only it would work.
+
+example: If you are taking any acidity medicine and its condition is that it would not work for allergic patient 
+and you are allergic but doctor dont know and he had given this to you so after that this medicine would create 
+a side effect in your body which could be dangerous.
