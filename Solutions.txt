@@ -1,5 +1,4 @@
 Solution
 
-Solution for this problem is pretty simple such that patient can check after taking any medicine its eligiblity in 
-simple words we can say who can take and its side effect. So that we can double check any medicine and with full 
-assuraty we can take it.
+Solution for this problem is pretty simple by awaring community and government about it by providing the data of particular 
+city pollution level in regular intervel so that government would work on this concern and make new policy.
