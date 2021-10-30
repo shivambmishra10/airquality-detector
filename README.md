@@ -1,4 +1,4 @@
-# Medicine-Detector
+# Airquality-Detector
 This is the website which take input from user, the drug or medicine name and after submitting the name
 this will show you a page where you will get information about medicine such that it
 <ul>
