@@ -150,3 +150,43 @@ footer{
     border:2px solid green;
 }
 /*utility section end*/
+#table1
+{
+    padding-left: 15rem;
+    font-size: 1.5rem;
+}
+#table2
+{
+    padding-left: 15rem;
+    font-size: 1.5rem;
+}
+#table3
+{
+    padding-left: 15rem;
+    font-size: 1.5rem;
+}
+#tab1
+{
+    font-size: 1.6rem;
+    text-align: center;
+}
+#tab2
+{
+    text-align: center;
+    font-size: 1.6rem;
+}
+#tab3
+{
+    text-align: center;
+    font-size: 1.6rem;
+}
+#table
+{
+    border-radius: 5px;
+    border:10px solid green;
+    font-family: 'Ruslan Display', cursive;
+    
+}
+#table tr th{
+    font-size: 0.9rem;
+}
