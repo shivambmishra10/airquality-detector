@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "path": "^0.12.7",
     "request": "^2.88.0",
     "validator": "^10.8.0"
   }
